@@ -61,7 +61,7 @@ A full-stack movie ticket booking application built with **React (Vite)** for th
 
 ```bash
 git clone https://github.com/Pandit17/BookEase.git
-cd bookease
+cd BookEase
 ```
 
 ---
